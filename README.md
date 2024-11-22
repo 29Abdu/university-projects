@@ -8,7 +8,7 @@
 - `Documentation`: Instructions on how to set up and run the project.
 - `Additional Resources`: Related materials such as reports, diagrams, and assets.
 
-### Semester 1
+### Semester: 1
 
 ## Homework Overview
 
