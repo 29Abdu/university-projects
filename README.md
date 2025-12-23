@@ -12,26 +12,26 @@ Each project folder includes:
 ---
 
 ## 📘 Programming I – C Programming
-- [Project 1 – Java](CmpE150-Intro-to-Computing/Project-1-Java)
-- [Project 2 – Java](CmpE150-Intro-to-Computing/Project-2-Java)
-- [Project 3 – Java](CmpE150-Intro-to-Computing/Project-3-Java)
+- [Project 1 – Java](Programming-I/Project-1-Java)
+- [Project 2 – Java](Programming-I/Project-2-Java)
+- [Project 3 – Java](Programming-I/Project-3-Java)
 
 ## 📗 Programming II – Java Programming
-- [Project 1 – Java](CmpE160-OOP/Project-1-Java)
-- [Project 2 – Java](CmpE160-OOP/Project-2-Java)
-- [Project 3 – Java](CmpE160-OOP/Project-3-Java)
+- [Project 1 – Java](Programming-II/Project-1-Java)
+- [Project 2 – Java](Programming-II/Project-2-Java)
+- [Project 3 – Java](Programming-II/Project-3-Java)
 
 ## 🧠 Data Structures 
-- [Project 1 – C++](CmpE230-Systems-Programming/Project-1-CPP)
-- [Project 2 – Python](CmpE230-Systems-Programming/Project-2-Python)
-- [Project 3 – Qt / C++](CmpE230-Systems-Programming/Project-3-Qt-CPP)
+- [Project 1 – C++](Data-Structures/Project-1-CPP)
+- [Project 2 – Python](Data-Structures/Project-2-Python)
+- [Project 3 – Qt / C++](Data-Structures/Project-3-Qt-CPP)
 
 ## 🔌 Digital Design
-- [Experiment 1 – Verilog](CmpE240-Digital-Systems/Experiment-1-Verilog)
-- [Experiment 2 – Verilog](CmpE240-Digital-Systems/Experiment-2-Verilog)
-- [Experiment 3 – Verilog](CmpE240-Digital-Systems/Experiment-3-Verilog)
-- [Experiment 4 – Verilog](CmpE240-Digital-Systems/Experiment-4-Verilog)
-- [Experiment 5 – Verilog](CmpE240-Digital-Systems/Experiment-5-Verilog)
+- [Experiment 1 – Verilog](Digital-Design/Experiment-1-Verilog)
+- [Experiment 2 – Verilog](Digital-Design/Experiment-2-Verilog)
+- [Experiment 3 – Verilog](Digital-Design/Experiment-3-Verilog)
+- [Experiment 4 – Verilog](Digital-Design/Experiment-4-Verilog)
+- [Experiment 5 – Verilog](Digital-Design/Experiment-5-Verilog)
 
 
 
